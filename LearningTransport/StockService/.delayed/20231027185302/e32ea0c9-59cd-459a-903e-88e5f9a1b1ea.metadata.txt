@@ -1,0 +1,21 @@
+{
+  "NServiceBus.SagaId": "b08ec0f0-8af5-89f7-2bca-bdda7c59b155",
+  "NServiceBus.IsSagaTimeoutMessage": "True",
+  "NServiceBus.SagaType": "StockService.Sagas.ReserveSaga, StockService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "NServiceBus.MessageId": "e97df26e-d08f-4849-9072-b0a701373264",
+  "NServiceBus.MessageIntent": "Send",
+  "NServiceBus.RelatedTo": "d42d0212-ea5f-4274-9ef8-b0a70137325f",
+  "NServiceBus.ConversationId": "1c2c9213-c965-4c7f-8d95-b0a70136e9e1",
+  "NServiceBus.CorrelationId": "8872703d-c2f2-4f9e-939b-b0a70136e9df",
+  "NServiceBus.OriginatingSagaId": "b08ec0f0-8af5-89f7-2bca-bdda7c59b155",
+  "NServiceBus.OriginatingSagaType": "StockService.Sagas.ReserveSaga, StockService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "NServiceBus.ReplyToAddress": "StockService",
+  "NServiceBus.OriginatingMachine": "TIDROOASUSTUF",
+  "NServiceBus.OriginatingEndpoint": "StockService",
+  "$.diagnostics.originating.hostid": "b7f3df74c5b675a67f1c7a28868ddbeb",
+  "NServiceBus.ContentType": "text\/xml",
+  "NServiceBus.EnclosedMessageTypes": "StockService.Sagas.MarkReserveSagaAsCompleteCleanupTimeout, StockService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "NServiceBus.Version": "8.1.4",
+  "NServiceBus.TimeSent": "2023-10-26 18:53:01:981429 Z",
+  "NServiceBus.DeliverAt": "2023-10-27 18:53:01:981115 Z"
+}

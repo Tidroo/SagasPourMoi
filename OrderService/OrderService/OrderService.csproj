@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<UserSecretsId>dotnet-OrderService-654a4b7b-b8ed-4940-ba75-bf55ba142ba5</UserSecretsId>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Extensions.Hosting" Version="7.0.1" />
+		<PackageReference Include="NServiceBus" Version="8.1.4" />
+		<PackageReference Include="NServiceBus.Extensions.Hosting" Version="2.0.0" />
+	</ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OrderService.Messages\OrderService.Messages.csproj" />
+    <ProjectReference Include="..\StockService.Messages\StockService.Messages.csproj" />
+  </ItemGroup>
+</Project>

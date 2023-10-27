@@ -1,0 +1,21 @@
+{
+  "NServiceBus.SagaId": "3e2793e7-df4c-1ea1-457f-4e4c10c5dc2a",
+  "NServiceBus.IsSagaTimeoutMessage": "True",
+  "NServiceBus.SagaType": "OrderService.Saga.OrderSagas, OrderService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "NServiceBus.MessageId": "b4d2576c-915d-4780-91a7-b0a70136ea35",
+  "NServiceBus.MessageIntent": "Send",
+  "NServiceBus.RelatedTo": "1d8c4560-3565-44ef-9c38-b0a70136ea28",
+  "NServiceBus.ConversationId": "1c2c9213-c965-4c7f-8d95-b0a70136e9e1",
+  "NServiceBus.CorrelationId": "8872703d-c2f2-4f9e-939b-b0a70136e9df",
+  "NServiceBus.OriginatingSagaId": "3e2793e7-df4c-1ea1-457f-4e4c10c5dc2a",
+  "NServiceBus.OriginatingSagaType": "OrderService.Saga.OrderSagas, OrderService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "NServiceBus.ReplyToAddress": "OrderService",
+  "NServiceBus.OriginatingMachine": "TIDROOASUSTUF",
+  "NServiceBus.OriginatingEndpoint": "OrderService",
+  "$.diagnostics.originating.hostid": "471687e9c8accfc64513526f72a6b411",
+  "NServiceBus.ContentType": "text\/xml",
+  "NServiceBus.EnclosedMessageTypes": "OrderService.Saga.PaymentTimeout, OrderService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "NServiceBus.Version": "8.1.4",
+  "NServiceBus.TimeSent": "2023-10-26 18:52:00:386560 Z",
+  "NServiceBus.DeliverAt": "2023-10-26 18:54:00:386560 Z"
+}

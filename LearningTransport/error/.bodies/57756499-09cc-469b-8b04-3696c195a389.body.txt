@@ -1,0 +1,1 @@
+<?xml version="1.0"?><ReserveStockCancelResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.net/StockService.Messages"><ReserveId>74a3f851-01aa-4866-9434-dd13c33e7121</ReserveId><OrderId>E442B481-1D97-4C6F-A727-19F424E1F44C</OrderId></ReserveStockCancelResponse>

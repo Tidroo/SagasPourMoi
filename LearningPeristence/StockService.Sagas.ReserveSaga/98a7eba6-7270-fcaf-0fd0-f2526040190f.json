@@ -1,0 +1,1 @@
+{"Id":"98a7eba6-7270-fcaf-0fd0-f2526040190f","Originator":"OrderService","OriginalMessageId":"95bacda2-d2e3-4299-b523-b0a70134548d","ProductsQuantity":{"Item A":1,"Item B":10},"ReserveId":"fa86fb5d-78da-42c1-97e8-4886f4cf0eb0","OrderId":"998246D2-EB3A-4F4D-B65C-E4D81123CCDC","ReserveTimedOut":false,"MarkedForCompletion":true,"ReserveConfirmed":false,"ReserveCanceled":true}
